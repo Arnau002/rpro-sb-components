@@ -5,7 +5,6 @@
   "license": "MIT",
   "typings": "dist/index.d.ts",
   "main": "dist/index.js",
-  "homepage": "https://fernando-herrera.com",
   "repository": {
     "url": "https://github.com/Arnau002/rpro-sb-components",
     "type": "git"
