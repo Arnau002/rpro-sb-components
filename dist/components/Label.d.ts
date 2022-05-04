@@ -26,4 +26,5 @@ export interface LabelProps {
      */
     backgroundColor?: string;
 }
+
 export declare const Label: ({ label, size, allCaps, color, fontColor, backgroundColor }: LabelProps) => JSX.Element;
